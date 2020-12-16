@@ -9,5 +9,4 @@ export default class GenreEntity extends BaseEntity {
   @Column()
   type: string;
 
-  
 }
